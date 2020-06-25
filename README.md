@@ -2,3 +2,6 @@
 ## Neural Networks
 - Final Project: Predicting bike-sharing patterns
 - Deep Learning with PyTorch
+## Convolutional Neural Networks
+- Convolutional Neural Networks
+- Transfer Learning
