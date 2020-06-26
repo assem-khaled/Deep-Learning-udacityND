@@ -5,3 +5,6 @@
 ## Convolutional Neural Networks
 - Convolutional Neural Networks
 - Transfer Learning
+- Weight Initialization
+- Autoencoders
+- Style Transfer
