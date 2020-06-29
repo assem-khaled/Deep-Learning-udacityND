@@ -8,3 +8,8 @@
 - Weight Initialization
 - Autoencoders
 - Style Transfer
+- Final Project: [Dog Breed Classifier](https://github.com/assem-khaled/dog-breed-classifier)
+## Recurrent Neural Networks
+- Implementation of RNN & LSTM
+- Embeddings & Word2Vec
+- Sentiment Prediction using RNN
