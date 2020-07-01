@@ -13,3 +13,4 @@
 - Implementation of RNN & LSTM
 - Embeddings & Word2Vec
 - Sentiment Prediction using RNN
+- Final Project: [TV Script Generation](https://github.com/assem-khaled/dlnd_tv_script_generation)
