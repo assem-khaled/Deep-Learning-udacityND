@@ -18,3 +18,4 @@
 - Generative Adversarial Networks
 - Deep Convolutional GANs
 - Implementing a CycleGAN
+- Final Project: Face Generation using DCGAN
